@@ -43,18 +43,6 @@ export default function Home() {
           </div>
         </div>
       </div>
-      <div className="flex flex-col justify-between bg-[#140506] px-4 pt-8 sm:flex-row sm:px-10 md:pt-20">
-        <h3 className="mb-4 text-center text-green-300 sm:mb-0 md:text-lg">
-          Follow us on Twitter, Insta
-        </h3>
-        <h3 className="mb-4 text-center text-white sm:mb-0 md:text-lg">
-          Made with 💚 by{" "}
-          <span className="font-bold text-green-300">Regen-DAO</span>
-        </h3>
-        <h3 className="text-center text-green-300 md:text-lg">
-          Copyrights @ 2023
-        </h3>
-      </div>
       <a
         href="https://wa.me/918072105077"
         className="whatsapp_float"
@@ -63,6 +51,19 @@ export default function Home() {
       >
         <BsWhatsapp className="fa fa-whatsapp mt-2" />
       </a>
+      <div className="flex flex-col justify-between bg-[#140506] px-4 pt-8 sm:flex-row sm:px-10 md:pt-20 xl:pt-44">
+        <h3 className="mb-4 text-center text-green-300 sm:mb-0 md:text-lg">
+          Follow us on Twitter, Insta
+        </h3>
+        <h3 className="mb-4 text-center text-white sm:mb-0 md:text-lg">
+          Made with 💚 by{" "}
+          <span className="font-bold text-green-300">Regen-DAO</span>
+        </h3>
+
+        <h3 className="text-center text-green-300 md:text-lg">
+          Copyrights @ 2024
+        </h3>
+      </div>
     </main>
   );
 }
