@@ -90,8 +90,11 @@ https://regen-dao.vercel.app/
 
 ## Screenshots
 
-![image](https://github.com/vmmuthu31/Regen-DAO/assets/88650559/3a4c7e01-5c63-4b8c-ae23-db5f291e7c4b)
-![WhatsApp Image 2023-07-16 at 14 42 58](https://github.com/vmmuthu31/Regen-DAO/assets/88650559/655e0680-4e90-4fdb-a108-8b866d5824c1)
-![WhatsApp Image 2023-07-16 at 14 46 24](https://github.com/vmmuthu31/Regen-DAO/assets/88650559/37f5845e-a88c-4758-a8de-dd5bb0c84536)
-![WhatsApp Image 2023-07-16 at 14 47 12](https://github.com/vmmuthu31/Regen-DAO/assets/88650559/a3922608-4332-48c1-ba87-4cc10806f11a)
-![image](https://github.com/vmmuthu31/Regen-DAO/assets/88650559/13132ec5-351d-4fbd-9b9e-30f8977a3c9a)
+<img width="1470" alt="Screenshot 2024-06-26 at 11 19 56 PM" src="https://github.com/vmmuthu31/Regen-DAO/assets/88650559/faa47310-16ea-48c3-b80f-791987368b66">
+![image](https://github.com/vmmuthu31/Regen-DAO/assets/88650559/3e8fc0f3-0bbd-475e-a08b-715708fdedb6)
+![image](https://github.com/vmmuthu31/Regen-DAO/assets/88650559/4c3dadef-6c36-4e1f-9479-bc12c66cd563)
+![image](https://github.com/vmmuthu31/Regen-DAO/assets/88650559/13a724b2-819f-4d1a-9aed-f1bc1730fa88)
+![image](https://github.com/vmmuthu31/Regen-DAO/assets/88650559/d7e05da4-886c-477b-98cd-06d629ab41dd)
+![image](https://github.com/vmmuthu31/Regen-DAO/assets/88650559/53655715-09ed-497b-bf58-4ed4d4b35ecc)
+
+
