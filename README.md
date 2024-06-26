@@ -91,10 +91,10 @@ https://regen-dao.vercel.app/
 ## Screenshots
 
 <img width="1470" alt="Screenshot 2024-06-26 at 11 19 56 PM" src="https://github.com/vmmuthu31/Regen-DAO/assets/88650559/faa47310-16ea-48c3-b80f-791987368b66">
-![image](https://github.com/vmmuthu31/Regen-DAO/assets/88650559/3e8fc0f3-0bbd-475e-a08b-715708fdedb6)
-![image](https://github.com/vmmuthu31/Regen-DAO/assets/88650559/4c3dadef-6c36-4e1f-9479-bc12c66cd563)
-![image](https://github.com/vmmuthu31/Regen-DAO/assets/88650559/13a724b2-819f-4d1a-9aed-f1bc1730fa88)
-![image](https://github.com/vmmuthu31/Regen-DAO/assets/88650559/d7e05da4-886c-477b-98cd-06d629ab41dd)
-![image](https://github.com/vmmuthu31/Regen-DAO/assets/88650559/53655715-09ed-497b-bf58-4ed4d4b35ecc)
+<img width="1273" alt="Screenshot 2024-06-26 at 11 22 10 PM" src="https://github.com/vmmuthu31/Regen-DAO/assets/88650559/a0314a8e-7fbf-4add-9c00-36fe3e887a46">
+<img width="1272" alt="Screenshot 2024-06-26 at 11 22 29 PM" src="https://github.com/vmmuthu31/Regen-DAO/assets/88650559/5e37cb7b-7e67-4218-8227-71395199bb26">
+<img width="1266" alt="Screenshot 2024-06-26 at 11 22 44 PM" src="https://github.com/vmmuthu31/Regen-DAO/assets/88650559/1ffd610c-e952-4fd3-b939-f90ddf153a2e">
+<img width="1436" alt="Screenshot 2024-06-26 at 11 23 06 PM" src="https://github.com/vmmuthu31/Regen-DAO/assets/88650559/abfd256b-3d22-4fdd-afa8-967e5f5885f5">
+
 
 
